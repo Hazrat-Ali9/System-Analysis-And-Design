@@ -30,3 +30,5 @@ include("connect.php");
     </div>
 </body>
 </html>
+
+// homepage
