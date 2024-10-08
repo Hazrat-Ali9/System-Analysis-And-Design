@@ -1,5 +1,5 @@
 <?php 
-
+// Register
 include 'connect.php';
 
 if(isset($_POST['signUp'])){
